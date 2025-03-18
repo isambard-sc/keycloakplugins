@@ -1,6 +1,6 @@
-# Keycloak auth plugin
+# Keycloak auth plugin
 
-## Dependencies
+## Dependencies
 
 * JDK
 * maven
@@ -10,7 +10,7 @@
 All keycloak extensions should be placed in subdirectories of this directory,
 e.g. `keycloak-isambard-auth-plugin`.
 
-## Building the extensions
+## Building the extensions
 
 You can build each extension by changing into that extension's directory
 and running `mvn clean install`. For example:
